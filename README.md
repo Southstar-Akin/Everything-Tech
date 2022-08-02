@@ -4,5 +4,5 @@ It includes information about tech career, requirements, work life, and so much 
 It also involves Road maps for techies to guide them to attaining the expertise that they require
 It gives information about the best resources, tech school, youtube channels and more propagating the gospel of tech
 It could also be an online menthor
-this is all i have for now as i am also new to tech nd github 
-thank you]
+This is all i have for now as i am also new to tech nd github 
+Thank you!
